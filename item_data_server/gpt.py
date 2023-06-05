@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import openai
 
-openai.api_key = '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'
+openai.api_key = '{open ai key}'
 
 def chat_gpt(input):
     
