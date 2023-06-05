@@ -1,2 +1,9 @@
 
 ngrok/ngrok.exe
+item_data_server/__pycache__/database.cpython-311.pyc
+item_data_server/__pycache__/database.cpython-38.pyc
+item_data_server/__pycache__/gpt.cpython-38.pyc
+item_data_server/__pycache__/kb.cpython-38.pyc
+item_data_server/__pycache__/keybert.cpython-38.pyc
+item_data_server/__pycache__/model.cpython-38.pyc
+item_data_server/__pycache__/preprocessing.cpython-38.pyc
