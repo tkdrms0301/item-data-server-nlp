@@ -1,0 +1,2 @@
+model_checkpoint_path: "fine-tuned-kobert-base"
+all_model_checkpoint_paths: "fine-tuned-kobert-base"
